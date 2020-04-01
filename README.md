@@ -29,6 +29,10 @@ npm install --save @redux-offline/redux-offline@native
 ```shell
 npm install --save @redux-offline/redux-offline
 ```
+##### For Expo36, 37
+```shell
+npm install --save GiFarina/redux-offline#native
+```
 
 ##### 2. Add the `offline` [store enhancer](http://redux.js.org/docs/Glossary.html#store-enhancer) with `compose`
 ```js
